@@ -3,6 +3,8 @@
   <br />
   <router-link to="/about">Go to About</router-link>
   <br />
+  <img :src="`./assets/logo.png`" alt="Vue logo" />
+  <br />
   <code> Running on {{ mode }} mode. </code>
   <router-view></router-view>
 </template>
