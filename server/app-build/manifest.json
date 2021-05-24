@@ -1,0 +1,16 @@
+{
+  "src/main.ts": {
+    "file": "assets/main.b2aac09d.js",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor.913ef023.js"
+    ],
+    "css": [
+      "assets/main.ea332c60.css"
+    ]
+  },
+  "_vendor.913ef023.js": {
+    "file": "assets/vendor.913ef023.js"
+  }
+}
